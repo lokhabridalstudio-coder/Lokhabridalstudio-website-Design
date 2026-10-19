@@ -1,13 +1,18 @@
 User-agent: *
 Allow: /
-User-agent: GPTBot
-Allow: /
-User-agent: Google-Extended
-Allow: /
-User-agent: PerplexityBot
-Allow: /
-User-agent: ClaudeBot
-Allow: /
 Disallow: /private/
 Disallow: /admin/
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
 Sitemap: https://makeupmagic.in/sitemap.xml
